@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "RawakAmeru",
-      "repo": "https://github.com/Renzprjkt/android_kernel_xiaomi_sm6225",
-      "branch": "spes-r-oss",
-      "device": "spes",
-      "defconfig": "vendor/spes-perf_defconfig"
+      "name": "Infinix-X695C",
+      "repo": "https://github.com/jhuny-arj/kernel_mt6785_halium",
+      "branch": "kang",
+      "device": "x695c",
+      "defconfig": "arch/arm64/configs/x685c-mt6785_config"
   },
     "withKernelSU": true,
     "toolchains": [
